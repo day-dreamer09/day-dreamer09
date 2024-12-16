@@ -2,7 +2,7 @@
  I’m interested in web development
  I’m currently learning php
  I’m looking to collaborate on frontend
- How to reach me , mail me if you want service of website frontend
+ How to reach me , mail me if you want service of website frontend "merryseg009@gmail.com"
  Pronouns: her
 Fun fact: i am a simple human being wants to explore and dive into this and explore the world of programming!
 
